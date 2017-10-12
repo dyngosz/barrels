@@ -40,7 +40,7 @@ export class LoginPage {
   }
 
   createAccount(){
-    this.navCtrl.push('SignupPage');
+    this.navCtrl.push('RegisterPage');
   }
 
   loginUser(){
